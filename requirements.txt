@@ -1,0 +1,5 @@
+flask
+pymongo==2.8
+mongokit
+celery
+metadata_parser
